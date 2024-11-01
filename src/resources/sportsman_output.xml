@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sportsman>
+    <name>90</name>
+    <age>290</age>
+    <exercises>
+        <exercise>
+            <name>Running</name>
+            <reps>5</reps>
+        </exercise>
+        <exercise>
+            <name>Swimming</name>
+            <reps>20</reps>
+        </exercise>
+        <exercise>
+            <name>Cycling</name>
+            <reps>30</reps>
+        </exercise>
+        <exercise>
+            <name>Push-ups</name>
+            <reps>15</reps>
+        </exercise>
+        <exercise>
+            <name>Pull-ups</name>
+            <reps>10</reps>
+        </exercise>
+        <exercise>
+            <name>Squats</name>
+            <reps>20</reps>
+        </exercise>
+        <exercise>
+            <name>Deadlift</name>
+            <reps>12</reps>
+        </exercise>
+        <exercise>
+            <name>Bench Press</name>
+            <reps>8</reps>
+        </exercise>
+        <exercise>
+            <name>Plank</name>
+            <reps>2</reps>
+        </exercise>
+        <exercise>
+            <name>Burpees</name>
+            <reps>25</reps>
+        </exercise>
+    </exercises>
+</sportsman>

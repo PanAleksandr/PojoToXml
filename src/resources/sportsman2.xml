@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sportsman>
+    <name>Alex</name>
+    <age>29</age>
+    <exercises>
+        <exercise>
+            <name>Push-up</name>
+            <reps>90</reps>
+        </exercise>
+        <exercise>
+            <name>Pull-up</name>
+            <reps>10</reps>
+        </exercise>
+        <exercise>
+            <name>Squat</name>
+            <reps>20</reps>
+        </exercise>
+        <exercise>
+            <name>Deadlift</name>
+            <reps>10</reps>
+        </exercise>
+        <exercise>
+            <name>Bench Press</name>
+            <reps>12</reps>
+        </exercise>
+        <exercise>
+            <name>Row</name>
+            <reps>15</reps>
+        </exercise>
+        <exercise>
+            <name>Plank</name>
+            <reps>1</reps>
+        </exercise>
+        <exercise>
+            <name>Burpee</name>
+            <reps>20</reps>
+        </exercise>
+        <exercise>
+            <name>Pull Over</name>
+            <reps>10</reps>
+        </exercise>
+        <exercise>
+            <name>Leg Press</name>
+            <reps>15</reps>
+        </exercise>
+    </exercises>
+</sportsman>

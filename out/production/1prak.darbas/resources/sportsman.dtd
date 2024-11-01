@@ -1,0 +1,6 @@
+<!ELEMENT sportsman (name, age, exercises)> <!-- Определяет элемент "sportsman" -->
+        <!ELEMENT name (#PCDATA)> <!-- Определяет элемент "name" -->
+        <!ELEMENT age (#PCDATA)> <!-- Определяет элемент "age" -->
+        <!ELEMENT exercises (exercise*)> <!-- "exercises" может содержать 0 или более элементов "exercise" -->
+        <!ELEMENT exercise (name, reps)> <!-- Определяет элемент "exercise" -->
+        <!ELEMENT reps (#PCDATA)> <!-- Определяет элемент "reps" -->
